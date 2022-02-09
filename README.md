@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhirudh001
-- 👀 I’m interested in basketball, coding and spotify
+- 👀 I’m interested in basketball and music
 - 🌱 I’m currently learning cs50, c++, 1st year B.tech in cse
 - 📫 Reach me through discord, user id - abyy#6522
 
